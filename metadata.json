@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio Player",
+  "description": "A sleek, modern audio player application built with React and Tailwind CSS, designed to provide a simple and elegant music listening experience.",
+  "requestFramePermissions": []
+}
